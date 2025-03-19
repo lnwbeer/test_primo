@@ -1,4 +1,4 @@
-import { merge } from '../src/merge';
+import { merge } from '(path../merge)';
 
 describe('merge function', () => {
     test('merges three empty arrays', () => {
